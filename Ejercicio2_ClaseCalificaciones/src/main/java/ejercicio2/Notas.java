@@ -12,7 +12,7 @@ public class Notas {
         } else {
             if (tipoAl == 'I') {
                 if (teoria >= 4) {
-                    notaFinal = p1*0.1+p2*0.1+trabajo*0.4+teoria*0.5;
+                    notaFinal = p1*0.15+p2*0.15+trabajo*0.4+teoria*0.3;
                 } else {
                     notaFinal = teoria;
                 }
